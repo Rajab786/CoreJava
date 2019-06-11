@@ -1,0 +1,26 @@
+#git  important commands
+//  to clone a repostory 
+
+git clone -b branch <branch url>
+
+//to heck git status 
+git status
+
+//
+to add files into a repository 
+git add . 
+
+// to commit files  in a repository 
+
+git commit -m "commit message enclosed within brackets"
+
+// to push the code changes into repository 
+git push origin <branche name in which we want to commit  the code>
+
+//to tAKE REBASE  or to o take the latest code 
+git pull 
+
+Note :- before committing  our code changes make sure that our branch is upto date with the latest code  changes so that no merge issue will occur .
+//to checkout the undesirable files
+
+git checkout <file path >
