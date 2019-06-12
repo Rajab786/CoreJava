@@ -1,0 +1,61 @@
+SOLID Principles - Coding standards
+ENterpride level industry dev
+
+MVC framework Spring  -- xml based 
+Microservices  spring boot -- annotation based 
+
+From Backend  or UI - Payload (XML , JSON)
+RESTful web services --- can be anything but preferably JSON
+SOAP web services XML  response  (WSDL)
+
+
+Prerequisites:-
+OOPS concept
+Inheritance
+Encapsulation
+Polymorphism 
+Abstraction 
+
+Exception handling 
+
+Singleton class and design pattern 
+Loggers 
+MVC Concept 
+M - Model ()
+V - View
+C- Controller
+
+
+Web development:-
+
+Backend:-
+Java , Python , Node , go , Groovy etc
+Frameworks:-
+Spring , SpringBoot
+Hibernate -db interactions (JPA ) Java Persisitence API 
+Restful Web Services
+
+UI:-
+HtML/CSS?JS , Servlets , JSP , Jquery (Old appliactions)
+
+New trends:- Angular JS (MVC) , React JS (V) , NodeJS , express JS , Vue JS , Grails Framework
+
+databse :-
+SQL (RDBMS):- MySQl , Oracle 12c , Maria DB 
+NoSQL;- (NRDBMS):- MongoDB , DyamoDB  etc 
+
+
+Deployments
+Server :- LOcalServers :- Apache Tomcat , UnterTow , Jetty 
+Production :- WebSphere (IBM server) , etc 
+
+
+Cloud :- (AWS Cloud , Google CLoud , MiCloud , PCF cloud , Bluemix Cloud )
+
+
+
+
+
+
+
+
